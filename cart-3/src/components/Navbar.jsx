@@ -6,16 +6,16 @@ export default function Navbar (props){
         <div>
             <ul>
                 <li>
-                    <Link to= '/'>Home</Link>
+                    <Link to= '/'>HOME</Link>
                 </li>
                 <li>
-                    <Link to= '/cart'>Home</Link>
+                    <Link to= '/cart'>CART</Link>
                 </li>
                 <li>
-                    <Link to= '/about' >Home</Link>
+                    <Link to= '/about' >ABOUT</Link>
                 </li>
                 <li>
-                    <Link to= '/login' >Home</Link>
+                    <Link to= '/login' >LOGIN</Link>
                 </li>
             </ul>
         </div>
